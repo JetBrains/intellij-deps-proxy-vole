@@ -59,7 +59,7 @@
     </dependency>
     <dependency>
       <groupId>org.javadelight</groupId>
-      <artifactId>delight-nashorn-sandbox</artifactId>
+      <artifactId>delight-rhino-sandbox</artifactId>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
@@ -96,8 +96,8 @@
       </dependency>
       <dependency>
         <groupId>org.javadelight</groupId>
-        <artifactId>delight-nashorn-sandbox</artifactId>
-        <version>0.1.14</version>
+        <artifactId>delight-rhino-sandbox</artifactId>
+        <version>0.0.10</version>
       </dependency>
       <dependency>
         <groupId>org.slf4j</groupId>
