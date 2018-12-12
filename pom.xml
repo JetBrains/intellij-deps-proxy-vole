@@ -58,7 +58,7 @@
       <artifactId>ini4j</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.jetbrains.intellij.deps</groupId>
+      <groupId>org.javadelight</groupId>
       <artifactId>delight-rhino-sandbox</artifactId>
     </dependency>
     <dependency>
@@ -95,9 +95,20 @@
         <version>0.5.4</version>
       </dependency>
       <dependency>
-        <groupId>org.jetbrains.intellij.deps</groupId>
+        <groupId>org.javadelight</groupId>
         <artifactId>delight-rhino-sandbox</artifactId>
-        <version>0.0.10</version>
+        <version>0.0.9</version>
+        <exclusions>
+          <exclusion>
+            <groupId>org.eclipse.xtend</groupId>
+            <artifactId>org.eclipse.xtend.lib.gwt</artifactId>
+          </exclusion>
+        </exclusions>
+      </dependency>
+      <dependency>
+        <groupId>org.mozilla</groupId>
+        <artifactId>rhino</artifactId>
+        <version>1.7.10</version>
       </dependency>
       <dependency>
         <groupId>org.slf4j</groupId>
