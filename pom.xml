@@ -10,7 +10,7 @@
 
   <groupId>org.jetbrains.intellij.deps</groupId>
   <artifactId>proxy-vole</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.5-jb.2</version>
 
   <name>Proxy Vole</name>
   <description>Proxy Vole is a Java library to auto detect the platform network proxy settings.</description>
