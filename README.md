@@ -1,3 +1,7 @@
+# A fork of [Proxy Vole](https://github.com/MarkusBernhardt/proxy-vole) ![official JetBrains project](http://jb.gg/badges/official.svg)
+
+The repository contains a fork of [Proxy Vole](https://github.com/MarkusBernhardt/proxy-vole) with a couple of patches not yet accepted into the upstream (see commits).
+
 # proxy-vole
 
 Proxy Vole is a Java library to auto detect the platform network proxy settings.  
