@@ -1,3 +1,8 @@
+**Update[Oct 6, 2023]**: This fork is no longer used in the IntelliJ platform.
+For a replacement, please look at [akuhtz/proxy-vole](https://github.com/akuhtz/proxy-vole).
+
+---
+
 # A fork of [Proxy Vole](https://github.com/MarkusBernhardt/proxy-vole) ![official JetBrains project](http://jb.gg/badges/official.svg)
 
 The repository contains a fork of [Proxy Vole](https://github.com/MarkusBernhardt/proxy-vole) with a couple of patches not yet accepted into the upstream (see commits).
